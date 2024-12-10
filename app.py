@@ -3,7 +3,7 @@ import requests
 
 # サンプルのユーザー情報
 user__id__date = ['24c1001000', '24c1001001']
-user__pass__date = ['yoshid_0822', 'childs0505']
+user__pass__date = ['yoshida_0822', 'childs0505']
 
 # ユーザーIDとパスワードを組み合わせたものを作成
 user1 = user__id__date[0] + user__pass__date[0]
